@@ -1,2 +1,6 @@
-1 class problem_solver
-2 end
+ class problem_solver
+   def solve_easy_problem
+   end
+
+   def solve_harder_problem
+ end
